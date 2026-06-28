@@ -68,49 +68,49 @@ Inventory-Management-System-Excel
 
 ## Dashboard
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](Dashboard.png)     
 
 ---
 
 ## Customers
 
-![Customers](Images/Customers.png)
+![Customers](Customers.png)
 
 ---
 
 ## Vendors
 
-![Vendors](Images/vendors.png)
+![Vendors](vendors.png)
 
 ---
 
 ## Products
 
-![Products](Images/Products.png)
+![Products](Products.png)
 
 ---
 
 ## New Entry
 
-![New Entry](Images/NewEntry.png)
+![New Entry](NewEntry.png)
 
 ---
 
 ## Purchase
 
-![Purchase](Images/Purchases.png)
+![Purchase](Purchases.png)
 
 ---
 
 ## Sales
 
-![Sales](Images/Sales.png)
+![Sales](Sales.png)
 
 ---
 
 ## Inventory
 
-![Inventory](Images/Inventory.png)
+![Inventory](Inventory.png)
 
 ---
 
